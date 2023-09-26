@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3028b2cf.css",
+    "main.js": "/static/js/main.35a0c4b7.js",
+    "static/media/laptops.png": "/static/media/laptops.a5a6ab642345b5d38784.png",
+    "static/media/slider4.png": "/static/media/slider4.8049dedb7c458a0534a5.png",
+    "static/media/slider1.png": "/static/media/slider1.2d6dc5a9c0fd289461ee.png",
+    "static/media/prod3.png": "/static/media/prod3.c073f706ba444448c519.png",
+    "static/media/mobile2.png": "/static/media/mobile2.1b3cf13086e809bb8d7d.png",
+    "static/media/mobile.png": "/static/media/mobile.fcde9e1b990b5a351520.png",
+    "static/media/mobile1.png": "/static/media/mobile1.1997f77f2ce6b9677dc6.png",
+    "static/media/item.png": "/static/media/item.79eafdfba70f40ed66c5.png",
+    "static/media/prod1.png": "/static/media/prod1.9f9a0d840227c590ac5d.png",
+    "static/media/almarai-all-400-normal.woff": "/static/media/almarai-all-400-normal.16c3907ee88356c1e282.woff",
+    "static/media/almarai-arabic-400-normal.woff2": "/static/media/almarai-arabic-400-normal.a66bfa9831a1d5ffbc11.woff2",
+    "static/media/avatar.png": "/static/media/avatar.f5ed20588df8bb546e2d.png",
+    "static/media/brand3.png": "/static/media/brand3.1a0049b1f1a261d0e6d1.png",
+    "index.html": "/index.html",
+    "main.3028b2cf.css.map": "/static/css/main.3028b2cf.css.map",
+    "main.35a0c4b7.js.map": "/static/js/main.35a0c4b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3028b2cf.css",
+    "static/js/main.35a0c4b7.js"
+  ]
+}

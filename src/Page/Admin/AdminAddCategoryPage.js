@@ -1,0 +1,18 @@
+import React from 'react'
+import AdminAddCategory from '../../Components/Admin/AdminAddCategory'
+import AdminSideBar from '../../Components/Admin/AdminSideBar'
+
+const AdminAddCategoryPage = () => {
+  return (
+    <div style={{ minHeight: "670px" }} className="containerXl grid grid-cols-12 gap-6 py-3 max-sm:px-3">
+      <div className="sm:col-span-3 max-sm:col-span-3 md:col-span-2">
+        <AdminSideBar />
+      </div>
+      <div className="sm:col-span-9 max-sm:col-span-9 md:col-span-10">
+        <AdminAddCategory />
+      </div>
+    </div>
+  )
+}
+
+export default AdminAddCategoryPage
